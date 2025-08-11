@@ -1,3 +1,4 @@
+/*Sum of Nth number*/
 #include <iostream>
 using namespace std;
 
